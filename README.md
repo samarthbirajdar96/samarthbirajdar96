@@ -1,4 +1,4 @@
-# Hi, I'm Samarth 👋🏾 👩
+# Hi, I'm Samarth 👋🏾 
 
 <h3 align="center">A passionate SpringBoot developer from India</h3>
 
