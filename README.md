@@ -1,4 +1,7 @@
-<h1 align="center">Hi 👋, I'm samarth</h1>
+# Hi, I'm Samarth 👋🏾 👩
+
+<img src="https://raw.githubusercontent.com/samarthbirajdar96/samarthbirajdar96/master/gh-header-image-cropped.png" alt="banner that says SAMARTH BIRAJDAR - Java SpringBoot Developer samarthbirajdar96">
+
 <h3 align="center">A passionate SpringBoot developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samarthbirajdar96&label=Profile%20views&color=0e75b6&style=flat" alt="samarthbirajdar96" /> </p>
