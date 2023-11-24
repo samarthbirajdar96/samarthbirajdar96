@@ -1,6 +1,8 @@
 # Hi, I'm Samarth 👋🏾 👩
 
-<img src="https://raw.githubusercontent.com/samarthbirajdar96/samarthbirajdar96/master/gh-header-image-cropped.png" alt="banner that says SAMARTH BIRAJDAR - Java SpringBoot Developer samarthbirajdar96">
+# Hi, I'm Monica 👋🏾 👩🏾‍💻
+
+<img src="https://raw.githubusercontent.com/M0nica/M0nica/master/gh-header-image-cropped.png" alt="banner that says Monica Powell - software engineer, content creator and community organizer alongside a cartoon illustration of Monica">
 
 <h3 align="center">A passionate SpringBoot developer from India</h3>
 
