@@ -1,9 +1,5 @@
 # Hi, I'm Samarth 👋🏾 👩
 
-# Hi, I'm Monica 👋🏾 👩🏾‍💻
-
-<img src="https://raw.githubusercontent.com/M0nica/M0nica/master/gh-header-image-cropped.png" alt="banner that says Monica Powell - software engineer, content creator and community organizer alongside a cartoon illustration of Monica">
-
 <h3 align="center">A passionate SpringBoot developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samarthbirajdar96&label=Profile%20views&color=0e75b6&style=flat" alt="samarthbirajdar96" /> </p>
