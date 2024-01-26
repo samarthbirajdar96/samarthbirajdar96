@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Samarth Birajdar</h1>
 
 
-<h3 align="center">A passionate SpringBoot developer from India</h3>
+<h3 align="center">A passionate FullStack developer from India</h3>
 
 <div align="center">
   <a href="https://1999azzar.github.io/1999AZZAR/">
