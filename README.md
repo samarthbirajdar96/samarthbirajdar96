@@ -29,7 +29,7 @@
 
 - 💬 Ask me about **Java, SpringBoot,Html Css ,Javascript**
 
-- 📫 How to reach me **samarthbirajdar96@gmail.com**
+- 📫 How to reach me **birajdarsamarth09@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
